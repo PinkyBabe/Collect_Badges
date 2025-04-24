@@ -1,1 +1,2 @@
 print("wew")
+print("wew")
